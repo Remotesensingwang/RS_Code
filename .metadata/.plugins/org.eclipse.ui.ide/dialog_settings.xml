@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+	</section>
+	<section name="RecentWorkingDirectories">
+		<list key="RecentWorkingDirsList">
+			<item value="E:\IDLcode"/>
+			<item value="D:\Program Files\Exelis"/>
+			<item value="D:\Program Files\Exelis\IDL85"/>
+			<item value="D:\Program Files\Exelis\ENVI53\classic\spec_lib"/>
+			<item value="D:\Program Files\Exelis\ENVI53\classic\data"/>
+			<item value="D:\Program Files\Exelis\ENVI53\classic\save_add"/>
+			<item value="D:\Program Files\Exelis\envi53"/>
+			<item value="E:\IDLcode\IDL"/>
+		</list>
+	</section>
+	<section name="NewIdlProjectWizard">
+		<section name="NewIdlProjectWizardPage">
+			<item value="true" key="add_to_path"/>
+		</section>
+	</section>
+</section>
